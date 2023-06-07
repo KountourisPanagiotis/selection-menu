@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SelectionMenu</string>
+    <string name="programmingLanguages">Programming Languages</string>
+    <string name="selectionMenu">Selection Menu</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="welcome">Welcome</string>
+</resources>
