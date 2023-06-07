@@ -7,11 +7,6 @@ A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) An
 - Handle item selection and redirection to a details screen.
 - Pass the selected item's title and image to the details screen using Intent extras.
 
-## Screenshot
-<p align="center">
-  <img src="https://github.com/KountourisPanagiotis/selection-menu/raw/main/assets/screenshot.png" width="400" alt="selectionMenu">
-</p>
-
 ## Installation
 Clone the repository and open the project in Android Studio. Then, build and run the application on an Android device or emulator.
 ```bash
